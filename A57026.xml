@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Reply to the funeral of the good old cause or covenant as truly spoken in the House as was that to which this does return.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57026</idno><idno type="EEBO-CITATION">9602185</idno>
+  <idno type="VID">43778</idno>
+  <idno type="EEBO-PROQUEST">2264196369</idno>
+  
+            <idno type="STC">Wing R1073</idno>
+            <idno type="STC">ESTC R26983</idno>
+            <idno type="OCLC">09602185</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Reply to the funeral of the good old cause or covenant as truly spoken in the House as was that to which this does return.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43778:1"/>
+            <pb facs="tcp:43778:1"/>
+            <p>A REPLY TO THE FUNERAL OF THE Good old Cause, OR COVENANT.</p>
+            <p>As truly spoken in the House, as was that to which this does return.</p>
+            <p>Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:43778:2"/>
+            <pb facs="tcp:43778:2"/>
+            <head>A Reply to the Funerall of the Good old Cause or Covenant, &amp;c.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Perceive it sticks with some, that this House should declare so high against the beloved Covenant; for which the Gent. that spake last hath modestly mov'd a Reprieve. He is to be liked much the better that he never took it himself; and as he never approv'd the pressing it upon others, so I hope in himself he never approv'd it at all. But since he would be content with an Act of Ob<g ref="char:EOLhyphen"/>livion for it, I presume he will not conceive but that to burn it, is a very good way to forget it. So the <hi>Roman</hi> did with the Letters that he would not have remembred to the prejudice of those that writ them, or of the par<g ref="char:EOLhyphen"/>ties that they did concern. When Towns or Forts have been Authors of extraordinary mischief, to prevent a fu<g ref="char:EOLhyphen"/>ture evil we leave them all in Ashes. When the Christi<g ref="char:EOLhyphen"/>an Religion came once to plant in <hi>Ephesus,</hi> those holy Saints and mild promoters of it, nere thought an <hi>Amne<g ref="char:EOLhyphen"/>stia</hi> onely was sufficient: but to devouring flames they bring their curious Books. In the Country where this Covenant first was born, the Law condemns a Witch to death by fire: and under the effect of this, we now see plain there was a fascination. Some men that meant well (by the sense that others put upon it) were hook'd into
+<pb n="2" facs="tcp:43778:3"/>that which at first they nere intended. It was worthily acknowledg'd by the Gent. that the aime of it against the Prelacy, was the Sacriledge of their Lands and Re<g ref="char:EOLhyphen"/>venues. And can you think it deserv'd to slide in silence to the pit, whose battery raz'd the Government which the constant succession of 1500. yeares had glorify'd through the Christian World?</p>
+            <p>But he is pleas'd to offer you some Reasons to incline you to a mollification. One is, that it was instrumentall to bring in our King. Truly if it did this, it would merit a pardon as well as a Reprieve. Every pin conducing to that work would be set in Gold and preserv'd. But sure enough what ever it did to the Son, it destroyed the Fa<g ref="char:EOLhyphen"/>ther; and was the price of more bloud, then the Nation that first bred it was worth. If it obliged them to defend the King, how came they to preach up a War against him, to give thanks when he was beaten, to drive him from all his own, to contribute for the pay of those that fought against him; and to ravish with a violent hand from all that did refuse to joyne with them? If it did not oblige his defence, how comes it to do it now? I fear if we should go to search, the very design was ruine. Indeed to do the <hi>Scots</hi> right, they sent it in plain terms, though I doubt whether with any better intent. I would fain ask whether it were taken to preserve the King, or to gain assistance against him; whether it were not the Consultati<g ref="char:EOLhyphen"/>on of <hi>Sion,</hi> once to have left out what related to His Ma<g ref="char:EOLhyphen"/>jesty; and when that was not thought handsome, it was contrived in such terms as might signifie nothing, or at least leave them so at liberty as in seeming to be Saints, they might cheat in the people to their aid; and yet themselves escape out Fiends of a blacker dye and tem<g ref="char:EOLhyphen"/>per. And admit it did at last do what the Gent. would
+<pb n="3" facs="tcp:43778:3"/>have us believe it did. Since with the <hi>Satyr</hi> it can blow both hot and cold, I hope this Assembly will be of the Husband<g ref="char:EOLhyphen"/>mans opinion, never to suffer it to harbour within their walls. I doubt it will be found their wearinesse of Tyran<g ref="char:EOLhyphen"/>ny and Taxes, the losse of their Trade, and the want of having their will without him, more then their Consci<g ref="char:EOLhyphen"/>entious Zeal for the Covenant that induc'd them to invite home the King. And to confirm this, let but also the en<g ref="char:EOLhyphen"/>deavours be considered how they would have pinion'd the wings of our <hi>Eagle</hi> before he should have flown among us.</p>
+            <p>Another Reason is given to avoid scandal to the Pro<g ref="char:EOLhyphen"/>testant Religion, both at home and abroad. But how this, we are to inquire. At home it cannot be, the Church of <hi>England</hi> never stoop'd to own it. It can no more ble<g ref="char:EOLhyphen"/>mish the true Protestant Religion, either in taking on't or pleading for't, then a Heresie or Error of a Factious par<g ref="char:EOLhyphen"/>ty can do a true Church. But now if it should not be condemn'd, it justly might be held to do so; so that to avoid scandall at home, 'tis fit it be now declar'd against.</p>
+            <p>Nor can it be scandal abroad, it being there decry'd already, and by all the Reformed Churches abroad, refu<g ref="char:EOLhyphen"/>sed to be joyn'd in the Learned and the Reverend <hi>Dioda<g ref="char:EOLhyphen"/>tus,</hi> plainly returning answer and advising, <hi>That they would repell this horrible scandal which so extremely wrongs Chri<g ref="char:EOLhyphen"/>stianity in Generall.</hi> By them it is parallel'd with the Ho<g ref="char:EOLhyphen"/>ly League of <hi>France,</hi> wherein as in this, they Covenant for Religion and a King, and to keep it as they did here; they turn their Armes against their King that strove to uphold their Religion.</p>
+            <p>Besides, the taking of it was either lawful or unlawful. If it were lawful, let there be any President shown either in Divinity or State, where there ever was a Covenant taken without and against the consent of the lawfull
+<pb n="4" facs="tcp:43778:4"/>Prince and adjudged lawfull. In the old Law, if a Child did vow a vow, and upon the Parents hearing of it, a disap<g ref="char:EOLhyphen"/>provement pass'd upon it, 'twas then not held to bind, but became both Null and void. And surely the Prince who is the general Parent of his people hath a Prerogative of as large extent upon his Subjects, as a natural Parent is al<g ref="char:EOLhyphen"/>lowed to have over his Children.</p>
+            <p>If it were not lawful, why was it taken at all? or why should it pleaded at all to bind? Since unlawful Oathes are best of all kept by breaking them. If one man shall swear to kill another, surely there is none so wild to think he is bound to keep or perform his Oath. So that the keeping of an unlawful Oath is a double scandal, the one in the taking, the other in pursuing it when taken.</p>
+            <p>Nor can I see how those that have taken this Cove<g ref="char:EOLhyphen"/>nant can plead for the obligation of it,—when they themselves have given example of the violation of o<g ref="char:EOLhyphen"/>thers they have taken that are far more binding then this can be proved to be. Before they did take this, they took the Oathes of Allegiance and Supremacy; and many of them the promissory Oath of Canonical obedience. Yet by preaching up the people into Rebel<g ref="char:EOLhyphen"/>lion, by setting up a Power above the just Supremacy, by exploding the Hierarchy of the Church, and by invading the Rights and Revenues both of Prince and Church; they have infring'd and Cassed both the one and the o<g ref="char:EOLhyphen"/>ther. When it cannot be denyed but all of these were lawful in themselves, and Legally and Authoritatively taken by them. And if they could so dispence with these ordain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and established by the Law of the Land, and the Legal Authority of the Prince: And think it no scandall to wave such sacred Sanctions both of Church and State; I doubt not but it will be far less to them to forgoe this
+<pb n="5" facs="tcp:43778:4"/>when they cannot longer hold it. The truth is, this Great Assembly I conceive hath done well and honourably, to doom it as they have done, to deter men from the like hereafter, and that those who would be friends to it, may know what they have to trust to, may see their errour and repent: and leave their hankering after this Sister of <hi>Jesabell,</hi> who painted but to delude. And indeed, they are beholding to this Honourable House for taking this bur<g ref="char:EOLhyphen"/>then off their shoulders, for vindicating this splendid Church, that by their Faction and Ignorance they had smutted round with scandal. And for shewing to all how great and just it is for them to detest it into the Hang<g ref="char:EOLhyphen"/>mans hand, like the sinful World at last to be purg'd with a clensing flame. And since as the <hi>Salamander</hi> it was born and hath liv'd in the fire of Contention; let it also expire in that Material one which will consume it. That from its dry Ashes the Memory thereof may perish, and nothing ever after may come to rise up like it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
